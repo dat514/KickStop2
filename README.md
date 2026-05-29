@@ -2,7 +2,7 @@
 
 Kickstop 2 is a Windows VST3 sidechain volume shaper made for fast, musical pump effects. It is designed for producers who want a clear kick-ducking workflow without setting up complicated routing every time.
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release%20.exe-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/dat514/KickStop2/releases/latest/download/installer.exe)
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release%20installer.exe-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/dat514/KickStop2/releases/latest/download/installer.exe)
 
 ![Kickstop 2 interface](img.png)
 
@@ -48,4 +48,4 @@ C:\Program Files\Common Files\VST3\Kickstop 2.vst3
 
 ## Notes
 
-Kickstop 2 is an original plugin by Tri Nao Nhan Tao. It is built around the familiar sidechain volume-shaping workflow, with its own interface, controls, themes, and DSP implementation.
+Kickstop 2 is an original plugin by Tri Nao Nhan Tao. It is built around the familiar sidechain volume-shaping workflow, with its own interface, controls, themes, and DSP implementation, Get ideas from Kickstart 2 :)
